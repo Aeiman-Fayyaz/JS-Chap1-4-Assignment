@@ -14,7 +14,11 @@ alert (age)*/
 // have visited this site N times”.
 
 // ANSWER
+/*let visitedTime;
 
+visitedTime = "10 times";
+
+document.write("You have visited this site\n" + visitedTime)*/
 
 
 // QUESTION 3
@@ -22,7 +26,9 @@ alert (age)*/
 // birth year. Show the following message in your browser:
 
 // ANSWER
+/*let birthYear = 2002;
 
+document.write(birthYear)*/
 
 
 // QUESTION 4
@@ -37,3 +43,12 @@ alert (age)*/
 // Doe ordered 5 T-shirt(s) on XYZ Clothing store”.
 
 // ANSWER
+/*let visitorName = "Aeiman"
+
+let product = " Shoes"
+
+let quantity = " 4"
+
+let storeName = " on XYZ shop"
+
+document.write (visitorName + " ordered" + quantity + product + storeName)*/
